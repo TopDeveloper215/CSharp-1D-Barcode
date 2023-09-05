@@ -1,0 +1,15 @@
+C:\Users\Whitesnow\Downloads\GenBarcode-master\GenBarcode-master\GenBarcode\bin\Debug\GenBarcode.exe.config
+C:\Users\Whitesnow\Downloads\GenBarcode-master\GenBarcode-master\GenBarcode\bin\Debug\GenBarcode.exe
+C:\Users\Whitesnow\Downloads\GenBarcode-master\GenBarcode-master\GenBarcode\bin\Debug\GenBarcode.pdb
+C:\Users\Whitesnow\Downloads\GenBarcode-master\GenBarcode-master\GenBarcode\bin\Debug\zxing.dll
+C:\Users\Whitesnow\Downloads\GenBarcode-master\GenBarcode-master\GenBarcode\bin\Debug\zxing.presentation.dll
+C:\Users\Whitesnow\Downloads\GenBarcode-master\GenBarcode-master\GenBarcode\bin\Debug\zxing.xml
+C:\Users\Whitesnow\Downloads\GenBarcode-master\GenBarcode-master\GenBarcode\bin\Debug\zxing.presentation.xml
+C:\Users\Whitesnow\Downloads\GenBarcode-master\GenBarcode-master\GenBarcode\obj\Debug\GenBarcode.csproj.AssemblyReference.cache
+C:\Users\Whitesnow\Downloads\GenBarcode-master\GenBarcode-master\GenBarcode\obj\Debug\GenBarcode.Form1.resources
+C:\Users\Whitesnow\Downloads\GenBarcode-master\GenBarcode-master\GenBarcode\obj\Debug\GenBarcode.Properties.Resources.resources
+C:\Users\Whitesnow\Downloads\GenBarcode-master\GenBarcode-master\GenBarcode\obj\Debug\GenBarcode.csproj.GenerateResource.cache
+C:\Users\Whitesnow\Downloads\GenBarcode-master\GenBarcode-master\GenBarcode\obj\Debug\GenBarcode.csproj.CoreCompileInputs.cache
+C:\Users\Whitesnow\Downloads\GenBarcode-master\GenBarcode-master\GenBarcode\obj\Debug\GenBarcode.csproj.CopyComplete
+C:\Users\Whitesnow\Downloads\GenBarcode-master\GenBarcode-master\GenBarcode\obj\Debug\GenBarcode.exe
+C:\Users\Whitesnow\Downloads\GenBarcode-master\GenBarcode-master\GenBarcode\obj\Debug\GenBarcode.pdb
